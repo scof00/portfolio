@@ -1,0 +1,71 @@
+h1{
+  font-family: 'luminari', sans-serif;
+  text-align: center;
+  padding-bottom: 3px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+#header{
+  width: 40%;
+  margin: 0 auto;
+  background-color: #E5DFCF;
+  border-style: outset;
+  border-radius: 25px;
+  border-color: #783f04;
+  border-width: 5px;
+}
+
+#link{
+  text-align: center;
+  font-family: 'luminari', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:active{
+  color: black;
+}
+
+.link{
+  margin: 5px;
+}
+
+body{
+  background:#42413D url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38046f4f-9a0c-4cd8-b49e-db656df4be4d/daj7up0-9747d83b-02c8-4e61-a560-c761f1403def.jpg/v1/fill/w_1600,h_900,q_75,strp/pirate_ship_concept_by_edwardbarons_daj7up0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvMzgwNDZmNGYtOWEwYy00Y2Q4LWI0OWUtZGI2NTZkZjRiZTRkXC9kYWo3dXAwLTk3NDdkODNiLTAyYzgtNGU2MS1hNTYwLWM3NjFmMTQwM2RlZi5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OSVtVXJzEtNw6g_OEq30CHCR6ASUIrt8649UKhQm7OM');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+p{
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: 'luminari';
+  margin-top: 10px;
+  font-size: 20px;
+  color: black;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 25px;
+}
+table{
+  background: rgba(255, 255, 255, 0.4);
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 10px;
+  width: 50%;
+  font-family: 'luminari';
+  table-layout: fixed;
+  text-align: center;
+  border-radius: 25px;
+}
