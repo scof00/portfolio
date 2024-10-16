@@ -4271,7 +4271,7 @@ html.no-csstransitions .s-hero__content {
 .folio-item__thumb a {
     display: block;
 }
-.folio-item__thumb a {
+.folio-item__thumb {
    margin-block: 2%;
 }
 
