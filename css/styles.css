@@ -109,16 +109,16 @@
      * color-2(#eb5e55)
      * color-3(#f2d0a4)
      */
-    --color-1: #FA8798;
+    --color-1: #ee9da9;
     --color-2: #fa5770;
     --color-3: rgb(253, 238, 218);
 
     /* theme color variations
      */
-    --color-1-lighter: #FA8798;
-    --color-1-light  : #bf4d5e;
-    --color-1-dark   : #8d313f;
-    --color-1-darker : #641924;
+    --color-1-lighter: #f8c7ce;
+    --color-1-light  : #efa8b2;
+    --color-1-dark   : #ee6c7f;
+    --color-1-darker : #f25b71;
     --color-2-lighter: #fe8194;
     --color-2-light  : #fa667c;
     --color-2-dark   : #c5344a;
@@ -3542,6 +3542,7 @@ input::-moz-focus-inner {
     line-height: 1;
     color: var(--color-1);
     margin-bottom: 0;
+    margin-left: -6vw;
     position: relative;
 }
 
