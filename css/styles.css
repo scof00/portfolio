@@ -4262,6 +4262,7 @@ html.no-csstransitions .s-hero__content {
     max-height: 297px;
     display: block;
     object-fit: fill;
+    margin-right: 1%;
 }
 
 .folio-item__caption {
