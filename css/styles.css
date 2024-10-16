@@ -4258,8 +4258,10 @@ html.no-csstransitions .s-hero__content {
 .folio-item {
     position: relative;
     overflow: hidden;
-    max-width: 18vw;
-    max-height: 21vh;
+    max-width: 850px;
+    max-height: 297px;
+    display: block;
+    object-fit: fill;
 }
 
 .folio-item__caption {
