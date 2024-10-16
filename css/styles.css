@@ -4014,7 +4014,7 @@ html.no-csstransitions .s-hero__content {
  * ------------------------------------------------------------------- */
 .s-about {
     background-color: var(--color-bg);
-    padding-top: calc(6 * var(--space));
+    padding-top: calc(4 * var(--space));
     padding-bottom: 0;
     position: relative;
 }
