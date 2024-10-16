@@ -3136,6 +3136,7 @@ input::-moz-focus-inner {
     width: 68px;
     height: 10px;
     margin-bottom: 0;
+    scale: 10.5;
 }
 
 
