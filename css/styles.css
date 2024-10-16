@@ -4269,6 +4269,9 @@ html.no-csstransitions .s-hero__content {
 .folio-item__thumb a {
     display: block;
 }
+.folio-item__thumb a {
+   margin-block: 2%;
+}
 
 .folio-item__thumb a::before {
     z-index: 1;
