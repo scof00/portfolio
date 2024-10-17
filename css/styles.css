@@ -3523,7 +3523,7 @@ input::-moz-focus-inner {
 }
  /*experience *****************************************/
  .s-hero__bg_exp {
-    background-image: url(../images/austria.jpg);
+    background-image: linear-gradient(90deg, black 10%, rgba(0, 0, 0, 0) 73%), url(../images/austria.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
