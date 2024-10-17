@@ -3523,7 +3523,7 @@ input::-moz-focus-inner {
 }
  /*experience *****************************************/
  .s-hero__bg_exp {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/austria.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3560,7 +3560,7 @@ input::-moz-focus-inner {
 /*******************************/
 /*projects *****************************************/
 .s-hero__bg_pro {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/planet.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3597,7 +3597,7 @@ input::-moz-focus-inner {
 /*******************************/
 /*about *****************************************/
 .s-hero__bg_abo {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/bee.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
