@@ -3562,13 +3562,12 @@ input::-moz-focus-inner {
 }
 
 .s-hero__content_HeadingAll h1 {
-    font-size: 22rem;
+    font-size: 19rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
     color: var(--color-1);
-    margin-bottom: 0;
-    margin-left: -6vw;
+    margin-top: 34vh;
     position: relative;
 }
 /* hero content about
