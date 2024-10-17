@@ -3597,7 +3597,7 @@ input::-moz-focus-inner {
 /*******************************/
 /*about *****************************************/
 .s-hero__bg_abo {
-    background-image: url(../images/bee.jpg);
+    background-image: linear-gradient(rgba(253, 253, 253, 0.187), rgba(251, 251, 251, 0.085)), url(../images/bee.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
